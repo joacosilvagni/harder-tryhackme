@@ -160,10 +160,5 @@ Pasos:
 3. En Alpine: revisa `/etc/periodic`, `/var/backup` y binarios SUID con crypto.
 4. X-Forwarded-For + cmd = RCE clásico.
 
-**Harder? Nah… just try harder.** 🚀
-
----
-
-Made with ❤️ by Joaco  
-Última actualización: Marzo 2026
+ 
  
